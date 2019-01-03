@@ -2,7 +2,7 @@
 
 Hi! I am sharing my Labs notes from the course **17PBINIS - Hospital information systems** for which I was lab tutor during Fall 2012, 2013, 2014.
 
-The Labs was held in the Czech language! 
+The Lab was held in the **Czech language**! 
 
 The most widely used Hospital information systems in the Czech Republic were covered:
 
