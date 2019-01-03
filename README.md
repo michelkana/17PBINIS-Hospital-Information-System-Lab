@@ -8,7 +8,7 @@ The most widely used Hospital information systems in the Czech Republic were cov
 
 - **[Medicus](https://www.cgm.com/cz/products___solutions_13/physician/medicus_2/medicus.en.jsp)** from CompuGroup Medical Czech Republic
 - **[CLINICOM Care Center](https://www.cgm.com/cz/products___solutions_13/hospital_3/cgm_clinicum/cgm_clinicom.en.jsp)** from CompuGroup Medical Czech Republic
-- **FONS Akord** from STAPRO s. r. o.
+- **[FONS Akord](http://www.stapro.cz/produkty-fons/fons-enterprise/)** from STAPRO s. r. o.
 
 Please refer to [this page](https://predmety.fbmi.cvut.cz/cs/17pbinis) if you want to visit the official course page at the Czech Technical University.
 
